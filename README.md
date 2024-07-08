@@ -36,13 +36,6 @@ sudo dnf install emboss
 brew install emboss
 ```
 
-Clone the repository:
-
-```bash
-git clone https://github.com/liushuotong/protein-properties-predictor.git
-cd protein-properties-predictor
-```
-
 ## Usage
 
 Run the script using the following command:
